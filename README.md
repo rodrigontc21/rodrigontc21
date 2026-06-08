@@ -1,68 +1,45 @@
-<h1 align="left">Hello, world! Eu sou o Rodrigo Vieira :)</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=Rodrigo%20Vieira&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=65&descAlign=62&fontColor=7aa2f7" alt="Rodrigo Vieira Header" />
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=7AA2F7&background=0D111700&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+IT+Student;Online+Gamer+%7C+Anime+Enthusiast" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigontc21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigontc21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="122" alt="languages graph"  />
-</div>
+---
 
-###
+### 🛠️ _Technology Arsenal_
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThld2Fhb25xMnd4anBtaXNwdzF2ZGphOGY0M3B2ZzFtb3Ayank5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<div align="left">
-  <a href="mailto:rodrigovnfernandes@gmail.com?subject=Contato%20pelo%20seu%20Perfil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,nodejs,docker,c,cpp,py,mysql,mongodb,git,github&theme=dark&perline=9" alt="Tech Stack Icons" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rodrigontc21&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170"/>
+</p>
+
+---
+
+### 📊 _Estatísticas de Contribuição_
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigontc21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+### 🔗 _Conecte-se Comigo_
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rodrigofnv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <a href="mailto:rodrigovnfernandes@gmail.com?subject=Contato%20pelo%20seu%20Perfil" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/rodrigo_fnvv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=INSTAGRAM&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigontc21/rodrigontc21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigontc21/rodrigontc21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rodrigontc21/rodrigontc21/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+</p>
